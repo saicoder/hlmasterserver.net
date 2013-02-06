@@ -1,0 +1,6 @@
+C:\Users\Branko\Desktop\Bane\CSMaterServer\CSMaterServer\bin\Debug\CSMaterServer.exe.config
+C:\Users\Branko\Desktop\Bane\CSMaterServer\CSMaterServer\bin\Debug\CSMaterServer.exe
+C:\Users\Branko\Desktop\Bane\CSMaterServer\CSMaterServer\bin\Debug\CSMaterServer.pdb
+C:\Users\Branko\Desktop\Bane\CSMaterServer\CSMaterServer\obj\Debug\CSMaterServer.csprojResolveAssemblyReference.cache
+C:\Users\Branko\Desktop\Bane\CSMaterServer\CSMaterServer\obj\Debug\CSMaterServer.exe
+C:\Users\Branko\Desktop\Bane\CSMaterServer\CSMaterServer\obj\Debug\CSMaterServer.pdb
